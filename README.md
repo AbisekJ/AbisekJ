@@ -24,7 +24,7 @@ Selected as part of the VLSI Society of India 1-TOPS TSMC 65nm undergraduate sil
 Verilog, SystemVerilog, Bluespec (Working Knowledge)
 
 **ASIC Design Flow**  
-Cadence Genus, Innovus, Tempus, Virtuoso
+Cadence Incisive, Genus, Innovus, Tempus, Virtuoso
 
 **FPGA Tools**  
 Vivado, Quartus Prime Lite
