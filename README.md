@@ -57,10 +57,10 @@ Implemented SPI-based SD card communication with FPGA-based image display.
 ---
 
 ## Featured Repositories
-- rv32i-pipelined-riscv-core  
-- secure-ro-puf-riscv  
+- rv32im-pipelined-riscv-core  
+- rv32i-single-cycle-core  
 - spi-sd-card-vga-controller  
-- r2r-ladder-dac-layout
+- RO-PUF
 
 ---
 
