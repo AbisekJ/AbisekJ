@@ -65,5 +65,5 @@ Implemented SPI-based SD card communication with FPGA-based image display.
 ---
 
 ## Connect
-LinkedIn: linkedin.com/in/abisek-j-bb2371286  
+LinkedIn: https://linkedin.com/in/abisek-j-bb2371286  
 Email: j05abisek27ece@gmail.com
